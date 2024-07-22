@@ -1,3 +1,4 @@
+#######Question : Create VPC, Subnet, RT , IGW launch ec2 instance in this vpc and deploy index.html in this instance using terraform #################
 ##############Providers#####################
 provider "aws" {
         region = "ap-south-1"
